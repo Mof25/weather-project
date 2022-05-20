@@ -1,0 +1,395 @@
+{
+  "data": [
+    {
+      "stationName": "Station1",
+      "stationData": [
+        {
+          "pressure": 765,
+          "date": "23-01-2012 11:00:00 AM",
+          "humidity": 32,
+          "temperature": 24,
+          "windSpeed": 4.12
+        },
+        {
+          "pressure": "765",
+          "date": "23-01-",
+          "humidity": "32",
+          "temperature": "sdfsdafgsda",
+          "windSpeed": 4.12
+        },
+        {
+          "pressure": 1024,
+          "date": "23-01-2012 11:00:00 PM",
+          "humidity": 54,
+          "temperature": 43,
+          "windSpeed": 6.16
+        },
+        {
+          "pressure": 765,
+          "date": "23-02-2012 11:00:00 AM",
+          "humidity": 15,
+          "temperature": 43,
+          "windSpeed": 2.66
+        },
+        {
+          "pressure": 1024,
+          "date": "23-02-2012 11:00:00 PM",
+          "humidity": 12,
+          "temperature": 39,
+          "windSpeed": 7.88
+        },
+        {
+          "pressure": 312,
+          "date": "23-03-2012 11:00:00 AM",
+          "humidity": 12,
+          "temperature": 12,
+          "windSpeed": 5.33
+        },
+        {
+          "pressure": 1224,
+          "date": "23-03-2012 11:00:00 PM",
+          "humidity": 65,
+          "temperature": 76,
+          "windSpeed": 6.89
+        },
+        {
+          "pressure": 644,
+          "date": "23-04-2012 11:00:00 AM",
+          "humidity": 12,
+          "temperature": 16,
+          "windSpeed": 5.12
+        },
+        {
+          "pressure": 224,
+          "date": "23-04-2012 11:00:00 PM",
+          "humidity": 32,
+          "temperature": 20,
+          "windSpeed": 4.12
+        },
+        {
+          "pressure": 999,
+          "date": "24-04-2012 11:00:00 AM",
+          "humidity": 32,
+          "temperature": 32,
+          "windSpeed": 4.12
+        },
+        {
+          "pressure": 1245,
+          "date": "24-04-2012 11:00:00 PM",
+          "humidity": 32,
+          "temperature": 8,
+          "windSpeed": 4.12
+        },
+        {
+          "pressure": 755,
+          "date": "25-04-2012 11:00:00 AM",
+          "humidity": 32,
+          "temperature": 17,
+          "windSpeed": 4.12
+        },
+        {
+          "pressure": 918,
+          "date": "25-04-2012 11:00:00 PM",
+          "humidity": 32,
+          "temperature": 22,
+          "windSpeed": 4.12
+        },
+        {
+          "pressure": 755,
+          "date": "25-04-2013 11:00:00 AM",
+          "humidity": 32,
+          "temperature": 17,
+          "windSpeed": 4.12
+        },
+        {
+          "pressure": 234,
+          "date": "26-04-2013 11:00:00 PM",
+          "humidity": 23,
+          "temperature": 22,
+          "windSpeed": 2.56
+        },
+        {
+          "pressure": 346,
+          "date": "26-04-2013 11:00:00 AM",
+          "humidity": 65,
+          "temperature": 12,
+          "windSpeed": 4.77
+        },
+        {
+          "pressure": 918,
+          "date": "25-04-2013 11:00:00 PM",
+          "humidity": 32,
+          "temperature": 22,
+          "windSpeed": 4.12
+        },
+        {
+          "pressure": 765,
+          "date": "23-05-2012 11:00:00 AM",
+          "humidity": 32,
+          "temperature": 23,
+          "windSpeed": 4.12
+        },
+        {
+          "pressure": 1024,
+          "date": "23-05-2012 11:00:00 PM",
+          "humidity": 32,
+          "temperature": 54,
+          "windSpeed": 4.12
+        },
+        {
+          "pressure": 765,
+          "date": "23-06-2012 11:00:00 AM",
+          "humidity": 32,
+          "temperature": 13,
+          "windSpeed": 4.12
+        },
+        {
+          "pressure": 1024,
+          "date": "23-06-2012 11:00:00 PM",
+          "humidity": 32,
+          "temperature": 14,
+          "windSpeed": 4.12
+        },
+        {
+          "pressure": 765,
+          "date": "23-07-2012 11:00:00 AM",
+          "humidity": 32,
+          "temperature": 29,
+          "windSpeed": 4.12
+        },
+        {
+          "pressure": 1024,
+          "date": "23-07-2012 11:00:00 PM",
+          "humidity": 32,
+          "temperature": 28,
+          "windSpeed": 4.12
+        },
+        {
+          "pressure": 765,
+          "date": "23-08-2012 11:00:00 AM",
+          "humidity": 32,
+          "temperature": 32,
+          "windSpeed": 4.12
+        },
+        {
+          "pressure": 1024,
+          "date": "23-08-2012 11:00:00 PM",
+          "humidity": 32,
+          "temperature": 43,
+          "windSpeed": 4.12
+        },
+        {
+          "pressure": 765,
+          "date": "23-09-2012 11:00:00 AM",
+          "humidity": 32,
+          "temperature": 17,
+          "windSpeed": 4.12
+        },
+        {
+          "pressure": 1024,
+          "date": "23-09-2012 11:00:00 PM",
+          "humidity": 32,
+          "temperature": 19,
+          "windSpeed": 4.12
+        },
+        {
+          "pressure": 765,
+          "date": "23-10-2012 11:00:00 AM",
+          "humidity": 32,
+          "temperature": 21,
+          "windSpeed": 4.12
+        },
+        {
+          "pressure": 1024,
+          "date": "23-10-2012 11:00:00 PM",
+          "humidity": 32,
+          "temperature": 23,
+          "windSpeed": 4.12
+        },
+        {
+          "pressure": 765,
+          "date": "23-11-2012 11:00:00 AM",
+          "humidity": 32,
+          "temperature": 28,
+          "windSpeed": 4.12
+        },
+        {
+          "pressure": 1024,
+          "date": "23-11-2012 11:00:00 PM",
+          "humidity": 32,
+          "temperature": 37,
+          "windSpeed": 4.12
+        },
+        {
+          "pressure": 665,
+          "date": "23-12-2012 11:00:00 AM",
+          "humidity": 13,
+          "temperature": 6,
+          "windSpeed": 1.11
+        },
+        {
+          "pressure": 712,
+          "date": "23-12-2012 11:00:00 PM",
+          "humidity": 12,
+          "temperature": 8,
+          "windSpeed": 1.13
+        },
+        {
+          "pressure": 711,
+          "date": "24-12-2012 11:00:00 AM",
+          "humidity": 6,
+          "temperature": 3,
+          "windSpeed": 1.97
+        },
+        {
+          "pressure": 899,
+          "date": "24-12-2012 11:00:00 PM",
+          "humidity": 2,
+          "temperature": 7,
+          "windSpeed": 0.64
+        }
+      ]
+    },
+    {
+      "stationName": "Station2",
+      "stationData": [
+        {
+          "pressure": 1016,
+          "date": "23-04-2012 11:00:00 AM",
+          "humidity": 32,
+          "temperature": 18.47,
+          "windSpeed": 4.12
+        },
+        {
+          "pressure": 1024,
+          "date": "23-04-2012 11:00:00 PM",
+          "humidity": 32,
+          "temperature": 18.47,
+          "windSpeed": 4.12
+        },
+        {
+          "pressure": 1200,
+          "date": "24-04-2012 11:00:00 AM",
+          "humidity": 32,
+          "temperature": 18.47,
+          "windSpeed": 4.12
+        },
+        {
+          "pressure": 1400,
+          "date": "24-04-2012 11:00:00 PM",
+          "humidity": 32,
+          "temperature": 18.47,
+          "windSpeed": 4.12
+        },
+        {
+          "pressure": 2400,
+          "date": "25-04-2012 11:00:00 AM",
+          "humidity": 32,
+          "temperature": 18.47,
+          "windSpeed": 4.12
+        },
+        {
+          "pressure": 918,
+          "date": "25-04-2012 11:00:00 PM",
+          "humidity": 32,
+          "temperature": 18.47,
+          "windSpeed": 4.12
+        }
+      ]
+    },
+    {
+      "stationName": "Station3",
+      "stationData": [
+        {
+          "pressure": 1016,
+          "date": "23-04-2012 11:00:00 AM",
+          "humidity": 32,
+          "temperature": 18.47,
+          "windSpeed": 4.12
+        },
+        {
+          "pressure": 1024,
+          "date": "23-04-2012 11:00:00 PM",
+          "humidity": 32,
+          "temperature": 18.47,
+          "windSpeed": 4.12
+        },
+        {
+          "pressure": 1200,
+          "date": "24-04-2012 11:00:00 AM",
+          "humidity": 32,
+          "temperature": 18.47,
+          "windSpeed": 4.12
+        },
+        {
+          "pressure": 1400,
+          "date": "24-04-2012 11:00:00 PM",
+          "humidity": 32,
+          "temperature": 18.47,
+          "windSpeed": 4.12
+        },
+        {
+          "pressure": 2400,
+          "date": "25-04-2012 11:00:00 AM",
+          "humidity": 32,
+          "temperature": 18.47,
+          "windSpeed": 4.12
+        },
+        {
+          "pressure": 918,
+          "date": "25-04-2012 11:00:00 PM",
+          "humidity": 32,
+          "temperature": 18.47,
+          "windSpeed": 4.12
+        }
+      ]
+    },
+    {
+      "stationName": "Station4",
+      "stationData": [
+        {
+          "pressure": 1016,
+          "date": "23-04-2012 11:00:00 AM",
+          "humidity": 32,
+          "temperature": 18.47,
+          "windSpeed": 4.12
+        },
+        {
+          "pressure": 1024,
+          "date": "23-04-2012 11:00:00 PM",
+          "humidity": 32,
+          "temperature": 18.47,
+          "windSpeed": 4.12
+        },
+        {
+          "pressure": 1200,
+          "date": "24-04-2012 11:00:00 AM",
+          "humidity": 32,
+          "temperature": 18.47,
+          "windSpeed": 4.12
+        },
+        {
+          "pressure": 1400,
+          "date": "24-04-2012 11:00:00 PM",
+          "humidity": 32,
+          "temperature": 18.47,
+          "windSpeed": 4.12
+        },
+        {
+          "pressure": 2400,
+          "date": "25-04-2012 11:00:00 AM",
+          "humidity": 32,
+          "temperature": 18.47,
+          "windSpeed": 4.12
+        },
+        {
+          "pressure": 918,
+          "date": "25-04-2012 11:00:00 PM",
+          "humidity": 32,
+          "temperature": 18.47,
+          "windSpeed": 4.12
+        }
+      ]
+    }
+  ]
+}
